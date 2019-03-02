@@ -1,0 +1,2 @@
+# wa.php
+php
